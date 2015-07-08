@@ -27,3 +27,5 @@ function simple_http_authentication() {
 }
 
 add_action( 'init', 'simple_http_authentication' );
+
+?>
