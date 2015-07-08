@@ -11,6 +11,7 @@ Author URI: http://joaopaulin.com.br/
 function simple_http_authentication_activation() {
 
     wp_redirect( admin_url() );
+    
 }
 
 register_activation_hook( __FILE__, 'simple_http_authentication_activation' );
