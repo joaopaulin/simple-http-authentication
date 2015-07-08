@@ -20,6 +20,7 @@ function simple_http_authentication() {
 	        echo __( 'You need to authenticate with a registered user on WordPress.', 'simple-http-authentication' );
 
 	        exit;
+	        
 	    }
 
 	}
@@ -27,5 +28,3 @@ function simple_http_authentication() {
 }
 
 add_action( 'init', 'simple_http_authentication' );
-
-?>
