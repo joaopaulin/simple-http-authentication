@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple HTTP Authentication
 Plugin URI: https://github.com/joaopaulin/simple-http-authentication/
-Description: Offers a simple way of HTTP Authentication on the whole WordPress installation based on registered users.
+Description: Offers a simple way for HTTP Authentication, on the whole WordPress installation, based on registered users.
 Author: João Paulin
 Version: 1.0
 Author URI: http://joaopaulin.com.br/
